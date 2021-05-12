@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Document</title> 
+  <style>
+   table, th, td{
+     border:1px solid skyblue;
+     }
+     </style> 
+ </head> 
+ <body> 
+  <a href="b2.html">Home</a> 
+  <a href="about.html">about us</a> 
+  <a href="gallery.html" ">Gallery</a> 
+  <a href="contact.html">Contact Us</a> 
+  <h4>contact us</h4> 
+  <table> 
+   <tbody>
+    <tr> 
+     <th>associate 1</th> 
+     <th>mobile no</th> 
+    </tr> 
+    <tr> 
+     <td>vijay</td> 
+     <td>9848098480</td> 
+    </tr> 
+    <tr> 
+     <td>vinay</td> 
+     <td>9848984800</td> 
+    </tr> 
+    <tr> 
+     <td>vivek</td> 
+     <td>7686854473</td> 
+    </tr> 
+   </tbody>
+  </table> 
+ </body>
+</html>
